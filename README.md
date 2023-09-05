@@ -15,7 +15,8 @@ You can use this README file to provide instructions and information about your 
 
 ## Connect with me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sky4231/)
-(<img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/_its._sky._/)
+<a href="https://www.instagram.com/_its._sky._/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/900px-Instagram_icon.png?20200512141346" height="30" width="30"></a>
+
 
 
 ## 
