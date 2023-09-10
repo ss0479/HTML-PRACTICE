@@ -7,7 +7,9 @@ This project uses the following external dependencies:
 Bootstrap: A front-end framework for building responsive and visually appealing web applications.
 Make sure you have an internet connection when using this webpage to load the Bootstrap CSS and JavaScript from the provided content delivery network (CDN) links.
 
+##Contribution 
 
+If you have suggestions or improvements for this example, please feel free to open an issue or submit pull request.
 
 ## Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sky4231/)
